@@ -489,7 +489,7 @@ export default function MegaMenu({ activeMenu, onMouseEnter, onMouseLeave, paren
       </div>
 
       {/* Company Highlights */}
-      <div className="col-span-7">
+      {/* <div className="col-span-7">
         <div className="bg-gradient-to-br from-primary-50 to-secondary-50 rounded-xl p-6 h-full">
           <div className="flex items-center mb-4">
             <Users className="h-6 w-6 text-primary-600 mr-2" />
@@ -533,7 +533,7 @@ export default function MegaMenu({ activeMenu, onMouseEnter, onMouseLeave, paren
             <ArrowRight className="h-4 w-4 ml-1" />
           </Link>
         </div>
-      </div>
+      </div> */}
     </div>
   )
 

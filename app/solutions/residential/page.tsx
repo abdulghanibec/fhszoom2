@@ -213,7 +213,7 @@ export default function ResidentialSolutionsPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-2xl lg:text-3xl font-bold mb-4">Ready to Go Solar?</h2>
           <p className="text-lg mb-6 lg:mb-8">
-            Join thousands of homeowners who have made the switch to clean, renewable energy.
+            Join thousands of homeowners who have made the switch to clean,  energy.
           </p>
           <Link
             href="/contact"

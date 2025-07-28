@@ -51,7 +51,7 @@ export default function SolutionsSection() {
         <div className="text-center mb-10">
            <h2 className="text-3xl font-bold mb-3">CATEGORIES</h2>
           <p className="text-base text-gray-600 max-w-3xl mx-auto">
-            Comprehensive renewable energy solutions tailored for residential, commercial, and utility applications
+            Comprehensive  tailored for residential, commercial, and utility applications
           </p>
         </div>
 

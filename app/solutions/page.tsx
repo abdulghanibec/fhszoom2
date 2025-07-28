@@ -40,7 +40,7 @@ const solutions = [
   },
   {
     title: "Utility Scale",
-    description: "Large-scale solar power plants and grid-connected renewable energy systems.",
+    description: "Large-scale solar power plants and grid-connected systems.",
     icon: "⚡",
     image: "/placeholder.svg?height=150&width=250",
     features: ["Utility Inverters", "Grid Integration", "SCADA Systems", "Performance Monitoring"],
@@ -66,7 +66,7 @@ const solutions = [
     features: ["Smart Control", "Energy Optimization", "Mobile App", "Real-time Monitoring"],
     href: "/solutions/residential",
     details:
-      "Our smart home solutions integrate renewable energy with intelligent home management systems. Control and monitor your energy production and consumption from anywhere using our intuitive mobile app. Optimize energy usage patterns, reduce waste, and maximize savings while enjoying the convenience of a connected home.",
+      "Our smart home solutions integrate with intelligent home management systems. Control and monitor your energy production and consumption from anywhere using our intuitive mobile app. Optimize energy usage patterns, reduce waste, and maximize savings while enjoying the convenience of a connected home.",
   },
 ]
 
@@ -158,7 +158,7 @@ export default function SolutionsPage() {
           <div className="container mx-auto px-4 text-center">
             <h1 className="text-3xl lg:text-5xl font-bold mb-4 lg:mb-6">Solar Energy Solutions</h1>
             <p className="text-lg lg:text-xl max-w-3xl mx-auto">
-              Comprehensive renewable energy solutions tailored for residential, commercial, and utility applications
+              Comprehensive  tailored for residential, commercial, and utility applications
             </p>
           </div>
         </section>
@@ -169,7 +169,7 @@ export default function SolutionsPage() {
             <div className="text-center mb-10">
               <h2 className="text-3xl font-bold mb-3 text-neutral-800">SOLUTIONS</h2>
               <p className="text-base text-neutral-600 max-w-3xl mx-auto">
-                Comprehensive renewable energy solutions tailored for residential, commercial, and utility applications
+                Comprehensive  tailored for residential, commercial, and utility applications
               </p>
             </div>
 

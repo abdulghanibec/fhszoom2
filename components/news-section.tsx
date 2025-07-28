@@ -3,7 +3,7 @@ import Link from "next/link"
 
 const newsItems = [
   {
-    title: "GoodWe Launches Revolutionary Energy Storage System",
+    title: " Revolutionary Energy Storage System",
     date: "December 15, 2023",
     excerpt: "New Lynx Home series offers unprecedented efficiency and reliability for residential applications.",
     image: "/placeholder.svg?height=200&width=300",

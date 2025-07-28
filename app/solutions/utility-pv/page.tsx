@@ -33,7 +33,7 @@ export default function UtilityPVPage() {
               </div>
               <h1 className="text-3xl lg:text-5xl font-bold mb-4 lg:mb-6">Reshaping Smart Energy</h1>
               <p className="text-lg lg:text-xl mb-6 lg:mb-8">
-                Large-scale solar power plants and grid-connected renewable energy systems for utilities.
+                Large-scale solar power plants and grid-connected systems for utilities.
               </p>
               <Link
                 href="/contact"
